@@ -26,3 +26,21 @@ A console-based bank management system built using C++ and file handling. It all
 ## 🖥️ How to Run
 1. Clone the repository
 2. Compile using any C++ compiler:
+3. Follow the console instructions.
+
+---
+
+## 📷 Screenshots
+See `/screenshots` folder.
+
+---
+
+## 🧠 Learning Outcomes
+- Practical use of file streams in C++
+- Real-world simulation of a banking system
+- OOP design pattern implementation
+
+---
+
+## 👨‍💻 Author
+Created by [YourSenior'sName] as part of personal project portfolio.
