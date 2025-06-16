@@ -31,7 +31,13 @@ A console-based bank management system built using C++ and file handling. It all
 ---
 
 ## 📷 Screenshots
-See `/screenshots` folder.
+![image](https://github.com/user-attachments/assets/8c4cbfed-2f1d-4ca9-80b5-73d3a4f45591)
+![image](https://github.com/user-attachments/assets/9ce6c06d-73a0-446e-9b07-13feef180587)
+![image](https://github.com/user-attachments/assets/59a9c385-e040-4ced-a4f3-9bb9b2302c38)
+![image](https://github.com/user-attachments/assets/1c0d0387-b4df-4576-a1a4-d4c51c360bb8)
+![image](https://github.com/user-attachments/assets/41fa4642-7bc3-40df-8c4f-0eca1bb42b19)
+
+
 
 ---
 
