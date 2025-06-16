@@ -43,4 +43,4 @@ See `/screenshots` folder.
 ---
 
 ## 👨‍💻 Author
-Created by [YourSenior'sName] as part of personal project portfolio.
+Created by Vikas as part of personal project portfolio.
